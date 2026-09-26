@@ -1,0 +1,20 @@
+1. First Code: showdata_Click
+Purpose: To display the date entered by the user.
+This code uses the following variables:
+• string: Stores text.
+• dayofweek: Stores the day of the week, such as Monday.
+• month: Stores the month, such as January.
+• year: Stores the year, such as 2026.
+• showdata: Combines the date information.
+How it works
+1. It gets data from the TextBoxes.
+2. It combines the day, month, and year.
+3. It displays the date in dateout label. Text.
+Example output:
+Monday January 2026
+2. Second Code: clear_Click
+Purpose: To clear all the entered date information.
+This code uses the following commands:
+• txtdayofweek. Clear (); - Clears the day of the week.
+• txtnamemonth. Clear(); — Clears the month.
+• txtdaymonth. Clear() • Clears the day of
